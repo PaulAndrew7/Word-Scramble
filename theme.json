@@ -1,0 +1,46 @@
+{
+    "ui_text_entry_line": {
+        "default": {
+            "background_colour": "#FFFFFF",
+            "font": "resources/BebasNeue-Regular.ttf",
+            "border_width": 2,
+            "border_colour": "#CCCCCC",
+            "shape": "rounded_rectangle",
+            "background_image": {
+                "path": "resources/text_input_bg.png"
+            }
+        }
+    },
+    "ui_button": {
+        "default": {
+            "background_colour": "#FFFFFF",
+            "font": "resources/BebasNeue-Regular.ttf",
+            "border_width": 2,
+            "border_colour": "#CCCCCC",
+            "shape": "rectangle",
+            "background_image": {
+                "path": "resources/button_bg.png"
+            }
+        },
+        "hovered": {
+            "background_colour": "#EEEEEE",
+            "border_colour": "#AAAAAA"
+        },
+        "active": {
+            "background_colour": "#DDDDDD",
+            "border_colour": "#999999"
+        }
+    },
+    "ui_label": {
+    "default": {
+        "font": "resources/BebasNeue-Regular.ttf",
+        "font_size": 120,
+        "text_colour": "#000000",
+        "background_colour": "#FFFFFF",
+        "border_width": 1,
+        "border_colour": "#CCCCCC",
+        "shape": "rectangle"
+    }
+}
+
+}
